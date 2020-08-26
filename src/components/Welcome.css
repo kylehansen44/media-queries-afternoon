@@ -1,0 +1,9 @@
+.welcome {
+    font-family: serif;
+    font-style: italic;
+    color: rgb(255, 255, 255);
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    font-size: 35px;
+}
